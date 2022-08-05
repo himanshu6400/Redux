@@ -1,0 +1,18 @@
+.bg-image{
+    outline: 2px solid black;
+    background-size: 100%;
+    padding: 20em;
+    background-image: url('./images/pic2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+
+}
+
+.loginregistration{
+    margin-top: 10px;
+    margin-left: 2px;
+    border: 2px solid orange;
+
+}
